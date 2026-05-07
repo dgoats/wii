@@ -1,0 +1,6 @@
+{
+  "name": "into-the-field-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Neon SQL proxy for Into the Field donation tracker"
+}
